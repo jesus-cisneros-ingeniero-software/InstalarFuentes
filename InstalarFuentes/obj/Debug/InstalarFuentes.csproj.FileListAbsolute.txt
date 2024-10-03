@@ -1,0 +1,5 @@
+d:\Users\jcisneros\Documents\SharpDevelop Projects\InstalarFuentes\InstalarFuentes\bin\Debug\InstalarFuentes.exe
+d:\Users\jcisneros\Documents\SharpDevelop Projects\InstalarFuentes\InstalarFuentes\bin\Debug\InstalarFuentes.pdb
+d:\Users\jcisneros\Documents\SharpDevelop Projects\InstalarFuentes\InstalarFuentes\obj\Debug\InstalarFuentes.csprojResolveAssemblyReference.cache
+d:\Users\jcisneros\Documents\SharpDevelop Projects\InstalarFuentes\InstalarFuentes\obj\Debug\InstalarFuentes.exe
+d:\Users\jcisneros\Documents\SharpDevelop Projects\InstalarFuentes\InstalarFuentes\obj\Debug\InstalarFuentes.pdb
